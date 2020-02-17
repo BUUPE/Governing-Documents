@@ -29,11 +29,21 @@ G. Adjournment
 6. Initiation of new members may be conducted at a regular meeting or at a special meeting called for the purpose.
 7. Notification of all active members shall be given by the Secretary one week prior to a special meeting. The notification shall state the purpose of the meeting.
  
-# Bylaw IV: Attendance
+# Bylaw IV: Active Membership Requirements
 
-1. Active members shall be required to attend all meetings of the chapter unless otherwise excused by a member of the executive council.
-2. Any member who fails to attend fifty percent of all meetings, or who misses three consecutive meetings, shall automatically revert to inactive status.
-3. Restoration of a member to active status shall be by decided at the discretion of the executive council.
+1. An Active member is required to earn 20 points every semester, and 6 of these points need to be from recruitment activities. These points can earned in the following ways:
+
+| Activity  | Recruitment | Point Value  |
+| ------------- |:-------------:| -----:|
+| Chapter      | False | 1 |
+| Social Event  | False      |  1 |
+| Professional Event | False   | 2 |
+| UPE Project | False   | Varies |
+| Speaking in front of class | True   | 1 |
+| Recruitment Event | True   | 2 |
+
+1. If a member does not meet the active member requirements, they will be considered inactive. 
+2. If a member is considered inactive for two continuous semesters, they will be removed from Massachusetts Eta Chapter of Upsilon Pi Epsilon.
 
 # Bylaw V: Finances
 
