@@ -59,8 +59,8 @@ G. Adjournment
 7. The names of those elected to membership shall be given to the Secretary, who shall then issue invitations to become candidate members of the Upsilon Pi Epsilon National Association, as well as the Massachusetts Eta Chapter.
 8. Failure of a candidate member-elect to notify the chapter of his or her acceptance of the invitation to membership within two weeks of its issuance shall constitute notice of refusal.
 9. All candidate member-elects are required to meet half of the active members of the Massachusetts Eta Chapter.
-10. All candidate member-elects are required to contribute to the Massachusetts Eta Chapter through the a project. This project can vary in terms of scope and technical complexity. The goal of the project is to better the Massachusetts Eta Chapter, and must be approved prior to completion by a member of the Executive Board.
-11. All candidate member-elects are required to attend at least one Chapter meeting, and at least two social events, unless given an exception by a member of the Executive Board.
+10. All candidate member-elects are required to contribute to the Massachusetts Eta Chapter in a meaningful way. This can vary in terms of scope and technical complexity. The goal of this contribution is to show commitment to the organization, and must be approved by a member of the Executive Board.
+11. All candidate member-elects are required to attend at least one Chapter meeting, and at least two events, unless given an exception by a member of the Executive Board.
     
     
 # Bylaw VIII: Adoption and Amendment
