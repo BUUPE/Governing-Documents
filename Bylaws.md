@@ -18,9 +18,9 @@ An Honor Society for the Computing and Information Disciplines**
 
 1. Chapter meetings will be held as scheduled during the Spring and Fall semesters.
 2. Special meetings may be called by the President, the Executive Council, or by petition of one-half of the active membership of the chapter.
-3. The order of conduct of a Chapter meeting shall be as follows:
+3. The order of conduct of a chapter meeting shall be as follows:
 A. Call to order
-B. Attendance in
+B. Attendance
 C. Committee updates
 D. Unfinished business
 E. New business
@@ -43,7 +43,7 @@ G. Adjournment
 | Recruitment Event | True   | 2 |
 
 1. If a member does not meet the active member requirements, they will be considered inactive. 
-2. If a member is considered inactive for two continuous semesters, they will be removed from Massachusetts Eta Chapter of Upsilon Pi Epsilon.
+2. If a member is considered inactive for two continuous semesters, they will be removed from the Massachusetts Eta Chapter of Upsilon Pi Epsilon.
 
 # Bylaw V: Finances
 
@@ -65,12 +65,12 @@ G. Adjournment
 3. All interested applicants will attend the required events as stated in the chapter constitution.
 4. The interested applicants shall apply for membership in accordance to the application process as stated in the chapter constitution.
 5. The list of eligible candidates, together application and interview remarks shall be submitted to all eligible voting members of the chapter.
-6. A vote of simple majority is needed for an eligible candidate to be elected for full membership.
+6. An affirmative vote of 3/4 or greater is needed for an eligible candidate to be elected for full membership.
 7. The names of those elected to membership shall be given to the Secretary, who shall then issue invitations to become candidate members of the Upsilon Pi Epsilon National Association, as well as the Massachusetts Eta Chapter.
 8. Failure of a candidate member-elect to notify the chapter of his or her acceptance of the invitation to membership within two weeks of its issuance shall constitute notice of refusal.
 
 # Bylaw VIII: Adoption and Amendment
 
 1. These bylaws shall become effective immediately upon adoption.
-2. These bylaws shall remain in effect until revised or amended by a two-thirds affirmative vote of the active membership of this Chapter
+2. These bylaws shall remain in effect until revised or amended by a two-thirds affirmative vote of the active membership of this Chapter.
 3. A provision of these bylaws may be temporarily suspended by a three-fourths vote of the active membership of the chapter.
