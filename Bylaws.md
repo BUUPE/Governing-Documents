@@ -18,9 +18,9 @@ An Honor Society for the Computing and Information Disciplines**
 
 1. Chapter meetings will be held as scheduled during the Spring and Fall semesters.
 2. Special meetings may be called by the President, the Executive Council, or by petition of one-half of the active membership of the chapter.
-3. The order of conduct of a Chapter meeting shall be as follows:
+3. The order of conduct of a chapter meeting shall be as follows:
 A. Call to order
-B. Attendance in
+B. Attendance
 C. Committee updates
 D. Unfinished business
 E. New business
@@ -29,11 +29,21 @@ G. Adjournment
 6. Initiation of new members may be conducted at a regular meeting or at a special meeting called for the purpose.
 7. Notification of all active members shall be given by the Secretary one week prior to a special meeting. The notification shall state the purpose of the meeting.
  
-# Bylaw IV: Attendance
+# Bylaw IV: Active Membership Requirements
 
-1. Active members shall be required to attend all meetings of the chapter unless otherwise excused by a member of the executive council.
-2. Any member who fails to attend fifty percent of all meetings, or who misses three consecutive meetings, shall automatically revert to inactive status.
-3. Restoration of a member to active status shall be by decided at the discretion of the executive council.
+1. An Active member is required to earn 20 points every semester, and 6 of these points need to be from recruitment activities. These points can earned in the following ways:
+
+| Activity  | Recruitment | Point Value  |
+| ------------- |:-------------:| -----:|
+| Chapter      | False | 1 |
+| Social Event  | False      |  1 |
+| Professional Event | False   | 2 |
+| UPE Project | False   | Varies |
+| Speaking in front of class | True   | 1 |
+| Recruitment Event | True   | 2 |
+
+1. If a member does not meet the active member requirements, they will be considered inactive. 
+2. If a member is considered inactive for two continuous semesters, they will be removed from the Massachusetts Eta Chapter of Upsilon Pi Epsilon.
 
 # Bylaw V: Finances
 
@@ -55,12 +65,12 @@ G. Adjournment
 3. All interested applicants will attend the required events as stated in the chapter constitution.
 4. The interested applicants shall apply for membership in accordance to the application process as stated in the chapter constitution.
 5. The list of eligible candidates, together application and interview remarks shall be submitted to all eligible voting members of the chapter.
-6. A vote of simple majority is needed for an eligible candidate to be elected for full membership.
+6. An affirmative vote of 3/4 or greater is needed for an eligible candidate to be elected for full membership.
 7. The names of those elected to membership shall be given to the Secretary, who shall then issue invitations to become candidate members of the Upsilon Pi Epsilon National Association, as well as the Massachusetts Eta Chapter.
 8. Failure of a candidate member-elect to notify the chapter of his or her acceptance of the invitation to membership within two weeks of its issuance shall constitute notice of refusal.
 
 # Bylaw VIII: Adoption and Amendment
 
 1. These bylaws shall become effective immediately upon adoption.
-2. These bylaws shall remain in effect until revised or amended by a two-thirds affirmative vote of the active membership of this Chapter
+2. These bylaws shall remain in effect until revised or amended by a two-thirds affirmative vote of the active membership of this Chapter.
 3. A provision of these bylaws may be temporarily suspended by a three-fourths vote of the active membership of the chapter.

@@ -5,7 +5,7 @@ An Honor Society for the Computing and Information Disciplines**
 # Article I: Name and Objective
 
 1. The name of this organization shall be the Massachusetts Eta Chapter of Boston University of the Upsilon Pi Epsilon Association, an honor society in computing and information disciplines.
-2. The objective of this chapter of the Association shall be the promotion of high scholarship and original investigation in the various fields of computational disciplines. Furthermore, this chapter will focus on preparing members to apply for and work in technical fields in professional.
+2. The objective of this chapter of the Association shall be the promotion of high scholarship and original investigation in the various fields of computational disciplines. Furthermore, this chapter will focus on preparing members to apply for and work in technical fields in industry.
 3. The Massachusetts Eta Chapter of the Association shall be located at Boston University.
 
 # Article II: Government
@@ -40,7 +40,7 @@ D. Students who do not qualify under the provisions of the previous subsections,
 
 # Article V: Officers
 
-1. The Executive Board of the chapter shall consist of the Faculty Advisor and the following officers: President, Executive Vice-President, Secretary, Director of Recruitment, Director of Marketing, Director of Operations, Director of Internal Development, Treasurer, Secretary.
+1. The Executive Board of the chapter shall consist of the Faculty Advisor and the following officers: President, Vice-President, Treasurer, Secretary, Director of Recruitment, Director of Marketing, Director of Operations, Director of Internal Development.
 2. The duties of the President shall be to call and preside at all meetings, they shall also determine the strategies and actions of the chapter. They shall have the say over any action taken unless overturned by the simple majority of the chapter.
 3. The duties of the Executive Vice-President shall be to perform the duties of President in the absence of the President. They shall also become the President in case of the resignation or disability of the President. In addition, they shall be responsible for the coordination of committees and the proper conduct of meetings.
 4. The duties of the Secretary shall be to keep records of all transactions of the chapter, and in particular, to keep the minutes of the meetings. In addition, they will be responsible for the handling of correspondence for the chapter.
@@ -59,7 +59,7 @@ D. Students who do not qualify under the provisions of the previous subsections,
 
 1. This Constitution shall become effective immediately upon ratification by a three-fourths affirmative vote of the invited charter initiates.
 2. This constitution shall remain in effect until revised or amended. The revision of the constitution will abide by the same constraints of amendments.
-3. Amendments in this Constitution may be proposed by any member of the chapter at a regular or special meeting. The proposed amendment shall be discussed and a vote for further discussion shall be taken; a simple majority of the active members present shall determine that consideration. On approval, the proposed amendment shall be formally framed by the Executive Board.
+3. Amendments in this Constitution may be proposed by any member of the chapter at a regular or special meeting. The proposed amendment shall be discussed and a vote for further discussion shall be taken; a two-thirds affirmative vote of the active members present shall determine that consideration. On approval, the proposed amendment shall be formally framed by the Executive Board.
 4. Amendments framed according to the previous section shall be circulated to the entire active membership of the chapter, together with appropriate commentaries and a ballot. The Secretary and Vice-President shall tally the votes and make the results of the balloting public at the following regular meeting of the chapter.
 5. A three-fourths favorable vote of the returned ballots shall be required for ratification of each amendment.
 6. The Amendment shall become effective immediately upon announcement of the results of the ratification election.
