@@ -29,11 +29,11 @@ A. A graduate student must be a candidate for a graduate degree in the computing
 B. A faculty advisor must have been teaching in the computing and information disciplines or in a field closely related to the computing division at Boston University for at least one year in order to be eligible. Such status shall be determined by the members of the chapter and shall be voted in by a simple majority.
 C. Former students, who were already members of the chapter shall be eligible to maintain their membership in this chapter of the Association.
 D. Students who do not qualify under the provisions of the previous subsections, but whose achievements in and contributions to the computer science field qualify them, in view of the Recruitment Team, shall be eligible for election to membership in this chapter of the Association.
-1. All candidates for election to membership, qualified according to the previous section, shall be reviewed by the Recruitment Committee. Those reported favorably by the Committee shall be proposed for elections.
+1. All candidates for election to membership, qualified according to the previous section, shall be reviewed by the Recruitment Committee. Those reported favorably by the Committee shall undergo the provisional candidate phase and be proposed for membership elections.
 2. Each candidate must attend one information session and two recruitment events, unless otherwise exempt through extenuating circumstances, determined by the Recruitment Committee.
 3. Each candidate must attend an interview session, consisting of both a behavioral and technical interview.
 4. Each candidate must be discussed individually by name in regards to social, professional, and technical merits. All candidates shall be voted on after all have been discussed.
-5. Election of a candidate to membership shall be by three-fourths affirmative vote by the members present and voting.
+5. Election of a provisional candidate to membership shall be by three-fourths affirmative vote by the members present and voting.
 6. The maximum number of members shall not be limited.
 7. The election of new members shall be held within six weeks after the beginning of the Fall and Spring semesters.
 8. The Director of Recruitment shall appoint a recruitment team which will oversee the membership process. 
