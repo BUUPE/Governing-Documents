@@ -34,7 +34,7 @@ An Honor Society for the Computing and Information Disciplines**
 | UPE Project | False   | Varies |
 | Class Announcements | True   | 1 |
 | Recruitment Event | True   | 2 |
-| Recruitment Team  | True   | 2 |
+| Recruitment Committee | True   | 2 |
 
 1. If a member does not meet the active member requirements, they will be considered inactive. 
 2. If a member is considered inactive for two continuous semesters, they will be removed from the Massachusetts Eta Chapter of Upsilon Pi Epsilon.
