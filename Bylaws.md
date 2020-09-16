@@ -18,7 +18,7 @@ An Honor Society for the Computing and Information Disciplines**
 
 1. Chapter meetings will be held as scheduled during the Spring and Fall semesters.
 2. Special meetings may be called by the President, the Executive Council, or by petition of one-half of the active membership of the chapter.
-3. The order of conduct of a chapter meeting shall be determind by the Director of Internal Development. 
+3. The order of conduct of a chapter meeting shall be determined by the Director of Internal Development. 
 6. Initiation of new members may be conducted at a regular meeting or at a special meeting called for the purpose.
 7. Notification of all active members shall be given by the Secretary one week prior to a special meeting. The notification shall state the purpose of the meeting.
  
