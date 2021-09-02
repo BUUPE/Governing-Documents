@@ -25,7 +25,7 @@ An Honor Society for the Computing and Information Disciplines**
  
 # Bylaw IV: Active Membership Requirements
 
-1. An Active member is required to earn 10 points every semester, and 4 of these points need to be from recruitment activities. These points can earned in the following ways:
+1. An Active member is required to earn 15 points every semester, and 4 of these points need to be from recruitment activities. These points can earned in the following ways:
 
 | Activity  | Recruitment | Point Value  |
 | ------------- |:-------------:| -----:|
