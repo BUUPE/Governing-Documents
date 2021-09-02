@@ -21,6 +21,9 @@ An Honor Society for the Computing and Information Disciplines**
 3. The executive board members shall be elected according to the procedures detailed in Article IV of this Constitution.
 4. In accordance with University policies, eligibility for membership shall be determined solely on merit; there will be no discrimination on the basis of race, religion, political views, sexual orientation, nationality, handicap, sex, etc.
 5. The active membership of this chapter of the Association shall consist of those Members who satisfy the fiscal and attendance requirements set forth in the By-Laws. The privilege of voting in membership elections and participation in other official functions of the Chapter shall be restricted to active members and provisional members who meet the fiscal and attendance requirements set forth in the By-Laws for provisional membership.
+9. Any member of this Chapter might voluntarily and permanently leave the Chapter at his own choosing, by formally informing the Executive Board two weeks prior to his desired leave date. Any member who so chooses might re-apply to the Chapter a full semester after his departure.
+10. Any member of this Chapter might voluntarily choose to place themselves in an Inactive status. Requirements, rules, and limitations of this status are those set forth in the By-Laws.
+11. Any inactive member looses the privilege to participate in any events or activities related to the Chapter.
 
 # Article IV: Election of Members and The Recruitment Process
 
@@ -29,14 +32,15 @@ A. A graduate student must be a candidate for a graduate degree in the computing
 B. A faculty advisor must have been teaching in the computing and information disciplines or in a field closely related to the computing division at Boston University for at least one year in order to be eligible. Such status shall be determined by the members of the chapter and shall be voted in by a simple majority.
 C. Former students, who were already members of the chapter shall be eligible to maintain their membership in this chapter of the Association.
 D. Students who do not qualify under the provisions of the previous subsections, but whose achievements in and contributions to the computer science field qualify them, in view of the Recruitment Team, shall be eligible for election to membership in this chapter of the Association.
-1. All candidates for election to membership, qualified according to the previous section, shall be reviewed by the Recruitment Committee. Those reported favorably by the Committee shall undergo the provisional candidate phase and be proposed for membership elections.
-2. Each candidate must attend one information session and two recruitment events, unless otherwise exempt through extenuating circumstances, determined by the Recruitment Committee.
-3. Each candidate must attend an interview session, consisting of both a behavioral and technical interview.
-4. Each candidate must be discussed individually by name in regards to social, professional, and technical merits. All candidates shall be voted on after all have been discussed.
-5. Election of a provisional candidate to membership shall be by three-fourths affirmative vote by the members present and voting.
-6. The maximum number of members shall not be limited.
-7. The election of new members shall be held within six weeks after the beginning of the Fall and Spring semesters.
-8. The Director of Recruitment shall appoint a recruitment team which will oversee the membership process. 
+2. All candidates for election to membership, qualified according to the previous section, shall be reviewed by the Recruitment Committee. Those reported favorably by the Committee shall undergo the provisional candidate phase and be proposed for membership elections.
+3. Each candidate must attend one information session and two recruitment events, unless otherwise exempt through extenuating circumstances, determined by the Recruitment Committee.
+4. Each candidate must attend an interview session, consisting of both a behavioral and technical interview.
+5. Each candidate must be discussed individually by name in regards to social, professional, and technical merits. All candidates shall be voted on after all have been discussed.
+6. Election of a full candidate to membership shall be by three-fourths affirmative vote by the members present and voting.
+7. The maximum number of members shall not be limited.
+8. The election of new members shall be held within six weeks after the beginning of the Fall and Spring semesters.
+9. The Director of Recruitment shall appoint a recruitment team which will oversee the membership process.
+10. The Executive Board, might propose to place any individual in the official Deny List for Recruitment. Requirements, rules, and limitations to this are those set forth in the By-Laws.
 
 # Article V: Officers
 
