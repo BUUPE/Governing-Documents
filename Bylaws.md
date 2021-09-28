@@ -21,10 +21,11 @@ An Honor Society for the Computing and Information Disciplines**
 3. The order of conduct of a chapter meeting shall be determined by the Director of Internal Development. 
 6. Initiation of new members may be conducted at a regular meeting or at a special meeting called for the purpose.
 7. Notification of all active members shall be given by the Secretary one week prior to a special meeting. The notification shall state the purpose of the meeting.
+8. The Executive Board must make efforts to organize at least one voluntary out of Chapter event every month, barring any extraneous circumstances.
  
 # Bylaw IV: Active Membership Requirements
 
-1. An Active member is required to earn 20 points every semester, and 6 of these points need to be from recruitment activities. These points can earned in the following ways:
+1. An Active member is required to earn 15 points every semester, and 4 of these points need to be from recruitment activities. These points can earned in the following ways:
 
 | Activity  | Recruitment | Point Value  |
 | ------------- |:-------------:| -----:|
@@ -36,8 +37,14 @@ An Honor Society for the Computing and Information Disciplines**
 | Recruitment Event | True   | 2 |
 | Recruitment Committee | True   | 2 |
 
-1. If a member does not meet the active member requirements, they will be considered inactive. 
-2. If a member is considered inactive for two continuous semesters, they will be removed from the Massachusetts Eta Chapter of Upsilon Pi Epsilon.
+2. Project Point Attribution is left up to the Executive Board of the Chapter. The Board should appoint a PM for each project, which is required to report any and all effort put in by the members on a regular basis, so that points may be attributed.
+3. If a member does not meet the active member requirements for a single semester, they will be put on probation.
+4. If a member on probation fails to meet the point requirements, they will be considered inactive and be removed from the Massachusetts Eta Chapter of Upsilon Pi Epsilon.
+5. Alternatively, a member might voluntarily choose to become inactive by informing the Executive Board before the final Drop Class date for the semester in question, according to the Boston University Schedule.
+6. A member may only choose to be inactive for two semesters during his time in the Chapter.
+7. If a member is considered inactive for the lack of points for either one or two semesters, they may only choose to go inactive for a single semester.
+8. If a member is Studying Abroad for a full semester, they should inform the Executive Board two weeks prior to the start of the semester, and will be place in an inactive status, without any hindrance to the limit of semesters they might then choose to be inactive.
+9. In certain situations, a member studying abroad might maintain their active status, at the discretion of the Executive Board.
 
 # Bylaw V: Finances
 
@@ -65,6 +72,9 @@ An Honor Society for the Computing and Information Disciplines**
 9. All provisional members are required to meet at minimum 15 of the active members of the Massachusetts Eta Chapter or a number/percentage determined by the Director of Recruitment.
 10. All provisional members are required to contribute to the Massachusetts Eta Chapter in a meaningful way. This can vary in terms of scope and technical complexity. The goal of this contribution is to show commitment to the organization, and must be approved by a member of the Executive Board.
 11. All provisional members are required to attend at least one Chapter meeting, and at least two events, unless given an exception by a member of the Executive Board.
+12. Any individual placed on the Deny List may not re-apply to the Massachusetts Eta Chapter at any point.
+13. For an individual to be place on the Deny List, a vote of 3/4 or greater by the members of the Recruitment Committee is needed.
+14. Any individual placed on the Deny List should be notified of such, and reserves the right to appeal before the Executive Board.
     
     
 # Bylaw VIII: Adoption and Amendment
